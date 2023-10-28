@@ -18,3 +18,8 @@ Currently, I'm working in the following stack:
 - Tools
   - Github, Gitlab (CI/CD)
   - Docker, Docker-Compose
+
+
+
+I aspire to develop complex user-friendly services, translate static content into interactive web applications.
+I'm attracted to visually pleasing and functional design, and I also enjoy learning new things and solving complex tasks.
